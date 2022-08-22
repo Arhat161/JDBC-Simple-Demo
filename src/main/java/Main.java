@@ -4,8 +4,6 @@ import static java.lang.Class.forName;
 
 public class Main {
 
-
-
     public static void main(String[] args) {
 
         String jdbcDriver = "jdbc:postgresql";
