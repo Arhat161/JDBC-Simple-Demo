@@ -1,6 +1,7 @@
 <html lang="en">
-<title>JDBC Simple Demo</title>
+
 <body>
+<h1>JDBC Simple Demo</h1>
 <p>Very simple demo of using JDBC to connecting to PostgresSQL from Java project.</p>
 <p>You will need some things:</p>
 <ul>
